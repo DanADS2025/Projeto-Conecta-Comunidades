@@ -1,3 +1,5 @@
+#🌍 Projeto: Conecta Comunidades#
+
 E se o acesso à tecnologia não fosse um privilégio, mas um direito?
 
 Apresento a ideia do projeto "Conecta Comunidades", uma plataforma inclusiva que busca reduzir a desigualdade digital no Brasil, oferecendo capacitação tecnológica, conteúdos acessíveis e suporte a pessoas em situação de vulnerabilidade.
